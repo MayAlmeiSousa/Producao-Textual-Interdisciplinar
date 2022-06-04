@@ -1,2 +1,2 @@
-# Producao Textual Interdisciplinar 
- Projetos realizados durante a graduação para complemento de nota.
+# Produção Textual Interdisciplinar...
+Trabalhos textuais realizados durante a minha graduação para complemento das notas de cada semestre.
